@@ -1,0 +1,22 @@
+body{
+  background-color:#bcc8be;}
+h1, h5, h2, h3{
+  color:#FFFFFF;
+  font-family:Lucida Console
+;
+}
+table{background-color:#dbdbdb;
+     color: #000000;
+     font-family:Lucida Console;
+     font-size: 17px;}
+
+p{ 
+  font-family:Lucida Console;
+  font-size: 17px;
+  
+}
+img{
+  border: 5px solid#97a59a;
+}
+li{ font-family:Lucida Console;
+  font-size: 17px;}
